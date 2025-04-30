@@ -6,7 +6,7 @@ An OpenCore EFI for the Dell Precision M6800 for macOS Monterey.
 | Component | Specification                |
 |-----------|------------------------------|
 | CPU       | Intel Core i7-4800MQ Haswell |
-| GPU       | AMD FirePro M6800 Mobility   |
+| GPU       | AMD FirePro M6100 Mobility   |
 | RAM       | 8GB + 4GB DDR3L @ 1600MHz    |
 | Storage   | 256GB SATA SSD               |
 | Display   | 1920x1080 @ 60Hz             |
