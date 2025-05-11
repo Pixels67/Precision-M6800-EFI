@@ -28,6 +28,7 @@ An OpenCore EFI for the Dell Precision M6800 for macOS Monterey.
 ### What partially works
 - Touchpad (a bit hard to control)
 - Bluetooth (mostly works but unstable, acts weird after sleep)
+- Brightness (works up to 50% and past that it starts to act weird)
 ### What doesn't work
 - Webcam
 - iGPU
@@ -38,6 +39,5 @@ An OpenCore EFI for the Dell Precision M6800 for macOS Monterey.
 - External audio input
 
 ---
-
-+ *Note:* Brightness only works up to 50% and past that it starts to act weird.  
-+ *Note:* Make sure to disable "Switchable Graphics" in BIOS.
+> [!NOTE]
+> Make sure to disable "Switchable Graphics" in BIOS.
