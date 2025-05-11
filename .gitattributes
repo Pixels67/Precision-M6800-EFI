@@ -1,3 +1,5 @@
 # Auto detect text files and perform LF normalization
 * text=auto
 EFI/OC/ACPI/** linguist-vendored
+EFI/OC/Kexts/** linguist-vendored
+EFI/OC/Drivers/** linguist-vendored
