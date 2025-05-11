@@ -18,14 +18,16 @@ An OpenCore EFI for the Dell Precision M6800 for macOS Monterey.
 
 ### What works
 - Keyboard
-- Touchpad (a bit hard to control)
 - Mouse Stick
 - dGPU
 - Wi-Fi
-- Bluetooth
 - Ethernet
 - Internal Speakers
 - Internal Mic
+- Sleep
+### What partially works
+- Touchpad (a bit hard to control)
+- Bluetooth (mostly works but unstable, acts weird after sleep)
 ### What doesn't work
 - Webcam
 - iGPU
